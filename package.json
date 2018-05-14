@@ -1,0 +1,11 @@
+{
+  "name": "Burbep",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "HayWiZz",
+  "license": "ISC"
+}
