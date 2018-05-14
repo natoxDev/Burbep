@@ -1,0 +1,2 @@
+# Burbep
+A discord bot 
