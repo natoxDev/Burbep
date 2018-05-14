@@ -1,7 +1,7 @@
 const Discord = require('discord.js'); 
 var bot = new Discord.Client();
 var prefix = "+";
-var token = "";
+var token = "NDQ1NTgzMTg4MTY1Nzg3NjQ5.DdsmTA.SVvDo50f64p5k9J4KNnio6DbFcA";
 
 bot.on("ready", function() {
 bot.user.setActivity(`+help | {bot.guilds.size}`)
@@ -89,4 +89,4 @@ message.channel.send(embed)
 });
 
 
-bot.login('NDQ1NTgzMTg4MTY1Nzg3NjQ5.DdsmTA.SVvDo50f64p5k9J4KNnio6DbFcA');
+bot.login(token);
