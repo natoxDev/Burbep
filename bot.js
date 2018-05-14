@@ -89,4 +89,4 @@ message.channel.send(embed)
 });
 
 
-bot.login(token);
+bot.login('NDQ1NTgzMTg4MTY1Nzg3NjQ5.DdsmTA.SVvDo50f64p5k9J4KNnio6DbFcA');
